@@ -1,0 +1,65 @@
+[
+  {
+    "headline": "“If you think you are too small to make a difference, try sleeping with a mosquito.”",
+    "category": "Tech",
+    "author": "Steve Jobs",
+    "createdAt": 1654535335967,
+    "imagePath": "uploads/image_1654535335962.png"
+  },
+  {
+    "headline": "Writing code is not so bad!",
+    "category": "UI",
+    "author": "Matt",
+    "createdAt": 1654535426322,
+    "imagePath": "uploads/image_1654535426317.png"
+  },
+  {
+    "headline": "Technology is best when it brings people together.",
+    "category": "Design",
+    "author": "Matt",
+    "createdAt": 1654535460891,
+    "imagePath": "uploads/image_1654535460887.png"
+  },
+  {
+    "headline": "It's not a faith in technology. It's faith in people.",
+    "category": "AI",
+    "author": "Steve Jobs",
+    "createdAt": 1654535505302,
+    "imagePath": "uploads/image_1654535505294.png"
+  },
+  {
+    "headline": "Technology is a useful servant but a dangerous master.",
+    "category": "Marketing",
+    "author": "Christian",
+    "createdAt": 1654535552478,
+    "imagePath": "uploads/image_1654535552474.png"
+  },
+  {
+    "headline": "Technology like art is a soaring exercise of the human imagination.",
+    "category": "Tech",
+    "author": "Denial Bell",
+    "createdAt": 1654535602444,
+    "imagePath": "uploads/image_1654535602439.png"
+  },
+  {
+    "headline": "Let’s go invent tomorrow instead of worrying about what happened yesterday.",
+    "category": "Tech",
+    "author": "Steve Jobs",
+    "createdAt": 1654535629187,
+    "imagePath": "uploads/image_1654535629183.png"
+  },
+  {
+    "headline": "The great growling engine of change – technology.",
+    "category": "Tech",
+    "author": "Alvin Toffler",
+    "createdAt": 1654535670635,
+    "imagePath": "uploads/image_1654535670629.png"
+  },
+  {
+    "headline": "Innovation is the outcome of a habit, not a random act.",
+    "category": "Testing",
+    "author": "Sukant Ratnakar",
+    "createdAt": 1654535707855,
+    "imagePath": "uploads/image_1654535707851.png"
+  }
+]
